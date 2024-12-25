@@ -4,3 +4,5 @@ After bunch of know-how the file SimulinkKontrolluRobotBacak is changed with USB
 If you want to fork and use this project, you must first Run USBDENEMETEZ and then open MATLAB Simulink.
 For detailed information you can look at the pdf below.   
  [2209-a_sonuc_raporu.pdf](https://github.com/user-attachments/files/18245830/2209-a_sonuc_raporu.pdf)
+For video of a robot you can visit my youtube channel.
+https://www.youtube.com/watch?v=VV1-zBO6dyg
